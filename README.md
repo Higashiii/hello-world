@@ -7,5 +7,5 @@ I love pokemon and boys.
 using namespace std;
 int main()
 {
-  cout<<"I love Jiji!"<<endl;
+    cout<<"I love Jiji!"<<endl;
 }
